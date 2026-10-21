@@ -2,7 +2,10 @@
 
 > **Disclaimer:** *This GitHub organization is an independent, student-led initiative. It is **not** an official software repository or communication channel of Byron Public Schools (ISD 531). All official district tools, communications, and resources can be found on the [Official Byron Public Schools Website](https://www.bears.byron.k12.mn.us/).*
 
----
+--- 
+
+# Are you a student of Byron Public Schools?
+You can become a member of this organization if you are!
 
 ## 👋 Welcome!
 
